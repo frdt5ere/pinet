@@ -1,0 +1,4 @@
+# number 0 lock, number 1 update
+
+value=0
+
